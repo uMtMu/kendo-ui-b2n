@@ -1,0 +1,15 @@
+{
+  "name": "kendo-ui-b2n",
+  "version": "2016.3.1317",
+  "description": "Kendo UI Core Bower To NPM",
+  "main": "js/kendo.ui.core.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "packedby": "uMtMu",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  },
+  "license": "ISC"
+}
